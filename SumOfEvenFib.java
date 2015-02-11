@@ -1,5 +1,5 @@
 /*
- * Sums the Fibonacci numbers below 4,000,000
+ * Sums the even Fibonacci numbers below 4,000,000
  */
 public class SumOfEvenFib 
 {
